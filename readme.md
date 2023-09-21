@@ -1,3 +1,4 @@
+
 # Resolução das tarefas de FAST API
 
 Exercício de Python da WomakersCode, com a adição do método PUT.
@@ -30,7 +31,4 @@ Depois é só usar o seguinte comando para o servidor local:
 ```bash
 uvicorn app:app --reload
 ```
-
-
-
 
